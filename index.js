@@ -1,1 +1,1 @@
-console.log("这是info");
+console.log("初始化git");
