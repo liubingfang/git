@@ -11,3 +11,6 @@ console.log("我是10011");
 
 
 console.log("我是10012");
+
+
+console.log("我是10010");
