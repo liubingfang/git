@@ -6,11 +6,6 @@ console.log("创建远端单独推main分支的需求分支 10012、10013、1001
 console.log('假设本地需求分支已删除且全部提交至git，需要某次commit需求提交至main分支,【此次假设需求分支为10015】');
 
 
-
-console.log("我是10014");
-console.log("我是10013");
-console.log("我是10012");
-
 console.log("dev内容，不得直接使用main分支");
 
 console.log("我是10011");
